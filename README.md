@@ -16,4 +16,4 @@ The purpose of this analysis is to determine temperature statistics for months J
 
 ## Summary
 
-The data from our analysis shows that the precipitation means for both months are somewhat close and the temperature difference isn't too great. This tells us that the Surfs Up shop in Oahu can be operational year round. 
+The data from our analysis shows that the precipitation means for both months are somewhat close and the temperature difference isn't too great. This tells us that the Surfs Up shop in Oahu can be operational year round. In addition, we can perform more queries to determine the best location for the shop and determine how many potential customers there could be in various locations. 
